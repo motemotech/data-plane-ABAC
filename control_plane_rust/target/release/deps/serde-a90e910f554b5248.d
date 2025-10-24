@@ -1,0 +1,14 @@
+/home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/deps/serde-a90e910f554b5248.d: /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/build/serde-20813c73d9d0b376/out/private.rs
+
+/home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/deps/libserde-a90e910f554b5248.rlib: /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/build/serde-20813c73d9d0b376/out/private.rs
+
+/home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/deps/libserde-a90e910f554b5248.rmeta: /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/build/serde-20813c73d9d0b376/out/private.rs
+
+/home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/motemotech/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/build/serde-20813c73d9d0b376/out/private.rs:
+
+# env-dep:OUT_DIR=/home/motemotech/code/univ/kotani/p4prj/control_plane_rust/target/release/build/serde-20813c73d9d0b376/out
